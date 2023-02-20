@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=..\..\..\..\..\..\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\lib\main.c
+FileName=main.c
 CompileCpp=0
 Folder=
 Compile=1
